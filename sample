@@ -1,0 +1,1 @@
+1. hadoop fs -df hdfs:/  (memory status check)
